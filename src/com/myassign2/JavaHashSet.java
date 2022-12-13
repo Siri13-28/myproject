@@ -1,4 +1,4 @@
-package com.myjava;
+package com.myassign2;
 import java.util.*;
 public class JavaHashSet {
     

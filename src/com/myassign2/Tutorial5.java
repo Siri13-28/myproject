@@ -1,4 +1,4 @@
-package com.myjava;
+package com.myassign2;
 import java.util.HashMap;
 public class Tutorial5 {
     public static void main(String[] args)

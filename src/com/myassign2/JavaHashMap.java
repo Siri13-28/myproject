@@ -1,4 +1,4 @@
-package com.myjava;
+package com.myassign2;
 import java.util.*;
 import java.util.Map.Entry;  
 public class JavaHashMap {

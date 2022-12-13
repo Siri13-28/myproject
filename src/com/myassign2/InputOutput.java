@@ -1,4 +1,4 @@
-package com.myjava;
+package com.myassign2;
 import java.io.*;
 public class InputOutput {
     public static void main(String args[])

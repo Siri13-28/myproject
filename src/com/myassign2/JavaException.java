@@ -1,4 +1,4 @@
-package com.myjava;
+package com.myassign2;
 
 public class JavaException {
     static int divideByZero(int a, int b)
