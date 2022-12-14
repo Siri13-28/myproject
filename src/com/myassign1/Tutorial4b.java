@@ -2,18 +2,8 @@ package com.myassign1;
 
 import java.util.*;
 
-public class Tutorial4 {
+public class Tutorial4b {
     public static void main(String[] args) {
-        // tutorial4 (a)
-        List<String> list_Strings = new ArrayList<String>();
-        list_Strings.add("Red");
-        list_Strings.add("Green");
-        list_Strings.add("Orange");
-        list_Strings.add("White");
-        list_Strings.add("Black");
-        System.out.println(list_Strings);
-
-        // tutorial4 (b)
         ArrayList<String> c1 = new ArrayList<String>();
         c1.add("Red");
         c1.add("Green");
